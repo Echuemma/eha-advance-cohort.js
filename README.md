@@ -35,7 +35,6 @@ A modern, responsive landing page for an Advanced JavaScript cohort bootcamp pro
 ## Customization
 
 - Modify the color scheme by updating CSS custom properties
-- Replace placeholder content with actual program details
 - Add your own branding and contact information
 - Integrate with forms or enrollment systems as needed
 
